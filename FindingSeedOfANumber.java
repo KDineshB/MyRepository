@@ -23,7 +23,6 @@ public class FindingSeedOfANumber {
 		if(seedFlag==false){
 			System.out.println("No seed found");
 		}
-		String string;
 		scanner.close();
 	}
 
